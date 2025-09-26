@@ -48,3 +48,17 @@ Clone the repo:
 ```bash
 git clone <your-repo-url>
 cd <your-repo-url>
+```
+
+Initialize Terraform:
+
+```bash
+terraform init
+```
+
+Initialize Terraform:
+
+```bash
+terraform init
+```
+
