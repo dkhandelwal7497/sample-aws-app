@@ -46,8 +46,8 @@ Install and configure the following tools before starting:
 Clone the repo:
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-url>
+git clone https://github.com/dkhandelwal7497/sample-aws-app.git
+cd sample-aws-app
 ```
 
 Initialize Terraform:
