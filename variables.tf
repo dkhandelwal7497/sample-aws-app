@@ -7,7 +7,7 @@ variable "aws_region" {
 variable "cluster_name" {
   description = "The name of the EKS cluster"
   type        = string
-  default     = "eks-observability-platform"
+  default     = "dk-aws-eks"
 }
 
 variable "node_group_instance_type" {
